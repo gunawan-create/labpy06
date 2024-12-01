@@ -79,9 +79,11 @@ Jika pengguna memilih untuk menambah data, maka langkah ini akan dijalankan.Deng
 ![gambar12](screenshot/ss12.png)
 
 ### Step 6 : Proses Tampilkan Data
-Jika pengguna memilih untuk menampilkan data, maka langkah ini akan dijalankan.Dalam Menjalankan Program ini akan menampilkan semua data mahasiswa yang ada di dalam daftar. Jika daftar kosong, program akan memberi tahu pengguna.
+Jika pengguna memilih untuk menampilkan data, maka langkah ini akan dijalankan.
 
 ![gambar17](screenshot/ss17.png)
+
+Dalam Menjalankan Program ini akan menampilkan semua data mahasiswa yang ada di dalam daftar. Jika daftar kosong, program akan memberi tahu pengguna.
 
 ![gambar18](screenshot/ss18.png)
 
