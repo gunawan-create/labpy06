@@ -44,6 +44,11 @@ Bagian ini memastikan bahwa fungsi menu() hanya dijalankan jika skrip ini diekse
 
 ![gambar7](screenshot/ss7.png)
 
+### Hasil Output
+![Screenshot 2024-12-03 074106](https://github.com/user-attachments/assets/74b2f726-0135-40bb-b7b8-bb72e47bc04d)
+![Screenshot 2024-12-03 074145](https://github.com/user-attachments/assets/3d27c346-f79d-4472-b216-cde2a42babb3)
+![Screenshot 2024-12-03 074158](https://github.com/user-attachments/assets/1410382d-432e-4600-850a-6708e42c2577)
+
 ## FLOWCHART DATA MAHASISWA
 Berikut adalah penjelasan fungsi dalam setiap bagian tertentu dari flowchart pengelolaan daftar nilai mahasiswa yang telah kita bahas sebelumnya. Setiap bagian memiliki peran penting dalam menentukan alur logika dan proses yang akan dilakukan.
 
